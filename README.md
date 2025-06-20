@@ -17,9 +17,13 @@ I. Bus
 Mã chuyến xe
 
 Điểm đi
+
 Điểm đến
+
 Giờ khởi hành
+
 Số ghế tối đa
+
 Số ghế còn trống
 
 II. Vé xe
