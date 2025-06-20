@@ -26,12 +26,20 @@ Số ghế tối đa
 
 Số ghế còn trống
 
+
 II. Vé xe
+
 Tên khách hàng
+
 Mã vé
+
 Tham chiếu tới chuyến xe
+
 Số ghế đã đặt
 
+
 III.Quản lý danh sách khách đã đặt vé
+
 Danh sách xe 
+
 Danh sách vé
