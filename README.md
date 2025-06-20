@@ -13,7 +13,9 @@
 
 # Phân tích đối tượng
 I. Bus
-\nMã chuyến xe
+
+Mã chuyến xe
+
 Điểm đi
 Điểm đến
 Giờ khởi hành
