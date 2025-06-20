@@ -1,5 +1,4 @@
-# Phạm Việt Khoa
-Đây là decreption mới và chưa có làm gì cả. Đang test!!?
+# Phát triển game
 
 # Thành viên
 1. Phạm Việt Khoa (24100058)
