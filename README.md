@@ -1,4 +1,4 @@
-# Phát triển cho người dùng xem chuyến và dặt vé xe buýt
+# Phát triển cho người dùng xem chuyến và đặt vé xe buýt
 
 # Cố Vấn: Nguyễn Lệ Thu
 
