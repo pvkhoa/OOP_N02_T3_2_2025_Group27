@@ -6,33 +6,18 @@ Phạm Việt Khoa (24100058) github ID: pvkhoa
 Phùng Quốc Bình (24100241) github ID: tukitori
 
 Ứng dụng: Hệ thống đặt vé xe buýt
-Phân tích đối tượng
-I. Bus
 
-Mã chuyến xe
+Hướng dẫn chạy:
 
-Điểm đi
+B1: Build app
 
-Điểm đến
+javac -d out `
+model\Bus.java `
+model\VeXe.java `
+manager\QuanLyDatVe.java `
+ui\AppUI.java
 
-Giờ khởi hành
+B2: Chạy app
 
-Số ghế tối đa
+javac -d out model\Bus.java model\VeXe.java manager\QuanLyDatVe.java ui\AppUI.java
 
-Số ghế còn trống
-
-II. Vé xe
-
-Tên khách hàng
-
-Mã vé
-
-Tham chiếu tới chuyến xe
-
-Số ghế đã đặt
-
-III.Quản lý danh sách khách đã đặt vé
-
-Danh sách xe
-
-Danh sách vé
